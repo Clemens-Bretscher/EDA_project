@@ -1,21 +1,6 @@
-# ds-project-template
-Template for creating ds simple projects 
+## Data Analysis on the prices of houses in King County
+This repository contains an analysis of various factors on the housing prices in King County.
 
-
-## Requirements
-
-* pyenv
-* python==3.9.4
-## Setup
-
-For this purpose you use following commands:
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install --upgrade pip
-pip install -r requirements.txt
-```
-
-### Remarks
-Data or Models folder content should not be pushed to github.
+<p> I analysed the data following three hypothesis, that can be found in the Data_analysis.ipynb file. </p>
+<p>sdf
+The pdf file Presentation Prices of Houses in King County gives an overview of the findings. 
